@@ -134,6 +134,8 @@ PyThaiNLP เกิดขึ้นในยุคที่เครื่อง�
 
 ขอขอบคุณ MacStadium
 
+ขอขอบคุณโครงการ AI Builders
+
 ขอขอบคุณทุก ๆ ท่านที่มีส่วนร่วมจัดงาน Thai NLP meetup ตลอดที่ผ่านมา
 
 ขอขอบคุณสมาชิกกลุ่ม Thai Natural Language Processing บน Facebook
