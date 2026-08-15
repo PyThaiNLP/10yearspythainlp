@@ -114,7 +114,7 @@ PyThaiNLP เกิดขึ้นในยุคที่เครื่อง�
 - Peeradej Tanruangporn - documentation
 
 ### Thanks
-ตราสัญลักษณ์: ออกแบบโดยคุณ วรุตม์ พสุธาดล จากการประกวดที่ https://www.facebook.com/groups/408004796247683/permalink/475864542795041/ และ https://www.facebook.com/groups/408004796247683/permalink/474262752955220/
+ตราสัญลักษณ์: ออกแบบโดยคุณ วรุตม์ พสุธาดล จากการประกวดที่ [กลุ่ม Thai NLP](https://www.facebook.com/groups/408004796247683/permalink/475864542795041/) และ [โพสต์สอง กลุ่ม Thai NLP](https://www.facebook.com/groups/408004796247683/permalink/474262752955220/)
 
 ขอขอบคุณ Wisesight สำหรับ Wisesight Sentiment Corpus
 
